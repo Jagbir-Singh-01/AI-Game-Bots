@@ -6,8 +6,6 @@ In this assignment we will:
 * Create a game tree to implement game playing bots
 * Extend the features of the game using data structures you learned
 
-NOTE: **as this assignment is about implementing data structures, you are not allowed to make use of any Python libraries or use built-in python data structures and functions unless specified.  If you are not sure, please ask.  Any use a built-in libraries or functions without approval will result in having to redo the assignment with a grade penalty of -50%**
-
 ## Part A - Hash Tables 
 
 
